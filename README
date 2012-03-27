@@ -1,0 +1,6 @@
+Appuie.ca
+Code source du site appuie.ca/etudiants
+
+INSTALLATION
+Vous devez renommer le fichier config.sample.php pour config.php .
+Un compte Twilio et Interfax sont requis.
